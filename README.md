@@ -16,14 +16,13 @@
  <a href="https://www.blender.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a>
  <a href="https://www.sketch.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="sketch" width="40" height="40"/> </a>
  <a href="https://www.apple.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> </a>
-
     </p>
 <br />
     
 ## :sunny: About me
 - 🏆 I've worked on more than 15 apps with millions of downloads <br />
 - 🎊 Currently working at Club <br />
-- 🧡 Next goals: SwiftUI, Motion Design, 3D Modeling <br />
+- 🧡 Next goals: SwiftUI, Motion Design, 3D Modeling, Video Games dev <br />
 <br />
 
 <h2 align="left">:heart: Let's get connected:</h2>

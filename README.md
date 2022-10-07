@@ -21,7 +21,7 @@
 <br />
     
 ## :sunny: About me
-- 🏆 I've worked on more than 15 apps for millions of downloads <br />
+- 🏆 I've worked on more than 15 apps with millions of downloads <br />
 - 🎊 Currently working at Club <br />
 - 🧡 Next goals: SwiftUI, Motion Design, 3D Modeling <br />
 <br />

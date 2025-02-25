@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>I'm Adrien, an indie iOS Developer building super easy-to-use apps<br>
+  <br>I'm Adrien, iOS Developer building super easy-to-use apps<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -20,10 +20,10 @@
 <br />
     
 ## :sunny: About me
-- 🏆 I've worked on more than 15 apps with millions of downloads <br />
-- 🎊 Currently working at Club <br />
-- 🧡 Next goals: SwiftUI, Motion Design, 3D Modeling, Video Games dev <br />
-- 📱My apps: https://apps.apple.com/us/developer/adrien-carvalot/id1498484091
+- 🏆 I've worked on more than 20 apps with millions of downloads <br />
+- 🎊 Currently working as an indie dev <br />
+- 🧡 Next goals: Motion Design, 3D Modeling, Video Games dev <br />
+- 📱My apps: https://apps.apple.com/us/developer/adrien-carvalot/id1498484091 / https://apps.apple.com/us/developer/lowly-apps/id1795211419
 <br />
 
 <h2 align="left">:heart: Let's get connected</h2>
